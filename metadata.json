@@ -1,0 +1,6 @@
+{
+  "name": "SnapTok HD",
+  "description": "Download TikTok videos in HD quality without watermarks, follow step-by-step save instructions, and export the complete standalone HTML source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
